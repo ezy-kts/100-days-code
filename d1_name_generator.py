@@ -1,4 +1,4 @@
-#comment
+#stripper nickname generator
 print("Welcome to the Stripper Nickname Generator.")
 street_name = input("Which street did you grew up in?\n")
 first_pet_name = input("What is your first pet's name?\n")
